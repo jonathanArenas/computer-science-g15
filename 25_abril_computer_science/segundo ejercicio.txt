@@ -1,0 +1,23 @@
+quiero una calculador de áreas y perímetros para figuras. La calculadora solicitara al
+usurio el nombre de la figura, magnitud a calcular y medidad.
+Entoces calcula y delvolvera un resultado. Una vez terminado un flujo, se puede calcular
+los datos de otra figura si se vuelve a ingresar las entradas.
+Nota 1: Todo en centimetros.
+Nota 2: En triangulo solo considerar el isoceles.
+Nota 3: Considerar que quiza despues haya más figuras.
+
+REQUERIMIENTOS FUNCIONALES
+Son aquellos requerimientos que tienen que ver con la solución del usuario.
+
+REQUERIMIENTOS NO FUNCIONALES
+
+
+1. Solicitar el nombre de la figura (rectangulo, triangulo, cuadrado)
+2. Solicitar la magnitud a calcular (area, perimetro)
+3. Si es area, solicitar las medidas necesarias en centimetros de la figura a calcular.
+4. Si es perimetro. solicitar los lados necesarios en centimetros de la figura a calcular.
+5. Realizar la operación aritmetica de la magnitud a calcular.
+6. Mostrar el resultado de la operación.
+7. Solicitar si quiere calcular alguna magnitud de otra figura.
+8. Si dice que si, repetir el proceso.
+9. Salir del programa.
