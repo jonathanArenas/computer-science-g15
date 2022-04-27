@@ -1,4 +1,6 @@
+# Apuntes de la clase
 
+### Apuntes 1
 
 **Fases de diseño de análisis de un problema**
 
@@ -10,7 +12,7 @@
 * Pruebas de aceptación.
 
 **Requerimientos funcionales**
-Son aquellos requerimientos que tienen que ver con la solucion del usuario.
+*Son aquellos requerimientos que tienen que ver con la solucion del usuario.*
 
 **Requerimientos no funcionales**
 Son caracteristicas que un sistema necesita para funcionar adecuadamente pero que no aportan valor operativo al usuario.
@@ -22,4 +24,4 @@ Son caracteristicas que un sistema necesita para funcionar adecuadamente pero qu
     cat ~/.ssh/id_rsa.pub
 3. Agregar la llave copiada en github
 
-info: https://git-scm.com/book/es/v2/Git-en-el-Servidor-Generando-tu-clave-p%C3%BAblica-SSH
+info [git](https://git-scm.com/book/es/v2/Git-en-el-Servidor-Generando-tu-clave-p%C3%BAblica-SSH)
